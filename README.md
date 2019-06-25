@@ -2,11 +2,11 @@
 front end for rest api with vue
 
 ## Instruções
-  Clonar este repositório.
-  A partir do diretório do projeto front-end-vuttr, execute: npx json-server db.json
-  Para instalar as depêndencia necessárias, execute: npm install
-  Para subir a aplicação no servidor: execute npm run serve
-  A aplicação deve estar disponível em http://localhost:8080/
+  <p>Clonar este repositório.</p>
+  <p> A partir do diretório do projeto front-end-vuttr, execute: <strong>npx json-server db.json</strong></p>
+  <p> Para instalar as depêndencia necessárias, execute: <strong> npm install </strong></p>
+  <p> Para subir a aplicação no servidor, execute: <strong> npm run serve </strong></p>
+  <p> A aplicação deve estar disponível em http://localhost:8080/ </p>
   
 ### Como utilizar
   A aplicação é bem intuitiva.
