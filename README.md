@@ -1,5 +1,5 @@
 # VUTTR
-front end for rest api with vue
+front end for simple api with vue
 
 ## Instruções
   <p>Clonar este repositório.</p>
