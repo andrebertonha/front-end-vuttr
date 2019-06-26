@@ -1,11 +1,7 @@
 import { http } from './config'
-//import { serverBus } from '../main'
 
 export default {
-    props: {
-        id: ''
-    },
-
+    
     listar: () => {
         return http.get('/tools')
     },

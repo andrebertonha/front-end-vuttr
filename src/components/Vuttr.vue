@@ -123,6 +123,7 @@ export default {
 </script>
 
 <style scoped>
+
 .btn-primary, button {
     float: right;
 }
@@ -132,8 +133,5 @@ export default {
 .custom-control {
     margin-top: 3px;
 }
-.legend {
-    text-color: 'gray';
-    font-size: 14px !important;
-}
+
 </style>
