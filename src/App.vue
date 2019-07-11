@@ -19,7 +19,6 @@
 import Tool from './services/tools';
 import Vuttr from './components/Vuttr';
 
-
 export default {
 
   name: 'app',

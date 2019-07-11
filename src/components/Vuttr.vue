@@ -75,17 +75,17 @@ export default {
             modalRemove: false,
             tag: '',
             tags: [],
-            title: '',            
+            title: '',
             search: '',
             tagStatus: ''
-        }        
+        }
     },
 
-    props: {        
+    props: {
         tool: Object,
         tools: Array,
         salvar: Function,
-        remover: Function,        
+        remover: Function,
     },
 
     components: {
